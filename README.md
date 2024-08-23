@@ -8,35 +8,34 @@ Tecnologias Utilizadas:
 -Banco de Dados: MariaDB
 
 
+
 Como Contribuir?
+
 Se você deseja colaborar no projeto usando o GitHub Desktop, siga os passos abaixo:
 
-Clone o Repositório:
+1. **Clone o Repositório**:
+   - Abra o GitHub Desktop.
+   - Clique em "File" > "Clone Repository".
+   - Escolha este repositório da nossa organização da sala e clique em "Clone".
 
-Abra o GitHub Desktop.
-Clique em "File" > "Clone Repository".
-Escolha este repositório da nossa organização da sala e clique em "Clone".
-Crie uma Nova Branch:
+2. **Crie uma Nova Branch**:
+   - No GitHub Desktop, clique em "Current Branch" e depois em "New Branch".
+   - Nomeie a sua branch com o formato: `seu-nome/funcionalidade` (por exemplo, `joao/gestao-estoque`) e clique em "Create Branch".
 
-No GitHub Desktop, clique em "Current Branch" e depois em "New Branch".
-Nomeie a sua branch com o formato: seu-nome/funcionalidade (por exemplo, joao/gestao-estoque) e clique em "Create Branch".
-Faça as Alterações Necessárias:
+3. **Faça as Alterações Necessárias**:
+   - Use seu editor de código para fazer as alterações no projeto.
+   - Certifique-se de salvar todas as alterações antes de continuar.
 
-Use seu editor de código para fazer as alterações no projeto.
-Certifique-se de salvar todas as alterações antes de continuar.
-Commit das Alterações:
+4. **Commit das Alterações**:
+   - Volte para o GitHub Desktop.
+   - Você verá suas alterações listadas na aba "Changes".
+   - Adicione uma mensagem de commit clara (ex.: "Adicionei o módulo de estoque") e clique em "Commit to [sua branch]".
 
-Volte para o GitHub Desktop.
-Você verá suas alterações listadas na aba "Changes".
-Adicione uma mensagem de commit clara (ex.: "Adicionei o módulo de estoque") e clique em "Commit to [sua branch]".
-Enviar Alterações para o GitHub:
+5. **Enviar Alterações para o GitHub**:
+   - Clique em "Push Origin" para enviar suas alterações para o repositório no GitHub.
 
-Clique em "Push Origin" para enviar suas alterações para o repositório no GitHub.
-Criar um Pull Request:
-
-Clique em "Branch" > "Create Pull Request".
-Verifique se a base está correta e adicione uma breve descrição do que foi alterado.
-Clique em "Create Pull Request" para enviar sua contribuição para revisão.
-Se precisar de ajuda, sinta-se à vontade para perguntar!
-
+6. **Criar um Pull Request**:
+   - Clique em "Branch" > "Create Pull Request".
+   - Verifique se a base está correta e adicione uma breve descrição do que foi alterado.
+   - Clique em "Create Pull Request" para enviar sua contribuição para revisão.
 
