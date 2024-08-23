@@ -3,8 +3,11 @@
 
  
 Tecnologias Utilizadas:
+
 -Linguagem de Programação: PHP
+
 -Frontend: HTML, CSS, JavaScript
+
 -Banco de Dados: MariaDB
 
 
