@@ -12,7 +12,7 @@
 
 
 
-Como Contribuir?
+**Como Contribuir?**
 
 Se você deseja colaborar no projeto usando o GitHub Desktop, siga os passos abaixo:
 
