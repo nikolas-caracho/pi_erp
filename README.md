@@ -1,44 +1,49 @@
 # pi_erp
- Repositório para o desenvolvimento de um ERP (Enterprise Resource Planning) voltado para o setor de cítricos, criado como parte da disciplina de Sistemas Integrados de Gestão e Aplicações.
+Repository for the development of an ERP (Enterprise Resource Planning) specialized for the citrus industry, created as part of the Integrated Management Systems and Applications course.
 
  
-**Tecnologias Utilizadas:**
+Technologies Used:
 
--Linguagem de Programação: PHP
+Programming Language: PHP
+Frontend: HTML, CSS, JavaScript
+Database: MariaDB
 
--Frontend: HTML, CSS, JavaScript
+How to Contribute?
+If you want to collaborate on this project using GitHub Desktop, follow the steps below:
 
--Banco de Dados: MariaDB
+Clone the Repository:
+
+Open GitHub Desktop.
+Click "File" > "Clone Repository".
+Choose this repository from our classroom organization and click "Clone".
 
 
+Create a New Branch:
 
-**Como Contribuir?**
+In GitHub Desktop, click "Current Branch" then "New Branch".
+Name your branch using the format: your-name/feature (e.g., john/inventory-management) and click "Create Branch".
 
-Se você deseja colaborar no projeto usando o GitHub Desktop, siga os passos abaixo:
 
-1. **Clone o Repositório**:
-   - Abra o GitHub Desktop.
-   - Clique em "File" > "Clone Repository".
-   - Escolha este repositório da nossa organização da sala e clique em "Clone".
+Make Necessary Changes:
 
-2. **Crie uma Nova Branch**:
-   - No GitHub Desktop, clique em "Current Branch" e depois em "New Branch".
-   - Nomeie a sua branch com o formato: `seu-nome/funcionalidade` (por exemplo, `joao/gestao-estoque`) e clique em "Create Branch".
+Use your code editor to make changes to the project.
+Make sure to save all changes before proceeding.
 
-3. **Faça as Alterações Necessárias**:
-   - Use seu editor de código para fazer as alterações no projeto.
-   - Certifique-se de salvar todas as alterações antes de continuar.
 
-4. **Commit das Alterações**:
-   - Volte para o GitHub Desktop.
-   - Você verá suas alterações listadas na aba "Changes".
-   - Adicione uma mensagem de commit clara (ex.: "Adicionei o módulo de estoque") e clique em "Commit to [sua branch]".
+Commit Changes:
 
-5. **Enviar Alterações para o GitHub**:
-   - Clique em "Push Origin" para enviar suas alterações para o repositório no GitHub.
+Return to GitHub Desktop.
+You'll see your changes listed in the "Changes" tab.
+Add a clear commit message (e.g., "Added inventory module") and click "Commit to [your branch]".
 
-6. **Criar um Pull Request**:
-   - Clique em "Branch" > "Create Pull Request".
-   - Verifique se a base está correta e adicione uma breve descrição do que foi alterado.
-   - Clique em "Create Pull Request" para enviar sua contribuição para revisão.
 
+Push Changes to GitHub:
+
+Click "Push Origin" to send your changes to the GitHub repository.
+
+
+Create a Pull Request:
+
+Click "Branch" > "Create Pull Request".
+Verify the base is correct and add a brief description of what was changed.
+Click "Create Pull Request" to submit your contribution for review.
